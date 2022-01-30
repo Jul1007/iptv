@@ -9,7 +9,7 @@ http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/37
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/36
 #EXTINF:-1 tvg-id="" tvg-name="Klan Macedonia" tvg-logo="" group-title="TV",Klan Macedonia
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/93
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="TV",Vizion Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="https://images.app.goo.gl/1gdyAfKz6N7Zc4Qu7" group-title="TV",Vizion Plus HD
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/59
 #EXTINF:-1 tvg-id="" tvg-name="Kanali 7" tvg-logo="" group-title="TV",Kanali 7
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/33
@@ -199,7 +199,7 @@ http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/210
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/211
 #EXTINF:-1 tvg-id="" tvg-name="rtshmuzike" tvg-logo="" group-title="TV",rtshmuzike
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/212
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="" group-title="Big Brother VIP",Big Brother 2
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="https://images.app.goo.gl/geCUuVrpi4Uf54866" group-title="Big Brother VIP",Big Brother 2
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/214
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="" group-title="Big Brother VIP",Big Brother 1
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://images.app.goo.gl/geCUuVrpi4Uf54866" group-title="Big Brother VIP",Big Brother 1
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/213
