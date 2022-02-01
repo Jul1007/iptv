@@ -201,7 +201,7 @@ http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/211
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/212
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Big Brother VIP",Big Brother 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/289613
-EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Big Brother VIP",Big Brother 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Big Brother VIP",Big Brother 2 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/289614
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://images.app.goo.gl/geCUuVrpi4Uf54866" group-title="Big Brother VIP",Big Brother 1
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="https://images.app.goo.gl/geCUuVrpi4Uf54866" group-title="Big Brother VIP",Big Brother 2
